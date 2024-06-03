@@ -6,4 +6,4 @@ import Error from './Error'
 
 
 
-export default {Home, Facilities, Rooms, Contact, Error}
+export {Home, Facilities, Rooms, Contact, Error}
