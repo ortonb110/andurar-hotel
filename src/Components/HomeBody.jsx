@@ -1,8 +1,12 @@
-import React from 'react'
+import Card from "./Card"
 
 const HomeBody = () => {
   return (
-    <main>HomeBody</main>
+    <main>
+      <Card />
+      <Card />
+      <Card />
+    </main>
   )
 }
 
